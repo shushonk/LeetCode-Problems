@@ -29,10 +29,9 @@ Output: 4
 Explanation:
 We can place the rooks at cells (0, 2), (1, 3), and (2, 1) for a sum of 1 + 1 + 2 = 4.
 
-```
+
 <img width="322" height="496" alt="image" src="https://github.com/user-attachments/assets/eb4f5276-da9b-491e-8752-b0f508a0fe82" />
 
-```
 ```
 **Example 2:**
 
